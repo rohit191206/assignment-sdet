@@ -9,7 +9,7 @@ It uses Cucumber for BDD, RestAssured for API interaction, Jackson for JSON pars
 
 ## Setup Instructions
 1. Clone the repository:
-   git clone <repository-url>
+   git clone https://github.com/rohit191206/assignment-sdet.git
 2. On Command Line go the project path
 3. Run Command "mvn clean install"
 4. Then run this command "mvn test"
